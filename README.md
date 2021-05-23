@@ -1,8 +1,6 @@
 # Anushka's test repo
 
-Selena
-Gomez
+- Selena Gomez
 
-Felix
-Kjellberg
+- Felix Kjellberg
 
